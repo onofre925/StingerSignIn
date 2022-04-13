@@ -1,16 +1,12 @@
-
 .login{
-        width: 382px;
+        width: 400px;
         overflow: hidden;
         margin: auto;
         margin: 20 0 0 450px;
         padding: 80px;
-        background: #778899;
+        background: #aceaae;
         border-radius: 15px ;
-
 }
-
-
 
 .containerSettings{
     padding: 16px;
