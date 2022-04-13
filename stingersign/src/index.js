@@ -91,8 +91,8 @@ export default function App() {
           paddingBottom: "1rem",
         }}
       >
-        <Link to="/login">Login</Link> |{" "}
         <Link to="/home">Home</Link> |{" "}
+        <Link to="/login">Login</Link> |{" "}
         <Link to="/profile">Profile</Link> |{" "}
         <Link to="/upload">Upload</Link> |{" "}
         <Link to="/signature">Signature Required</Link> |{" "}
